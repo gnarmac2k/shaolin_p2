@@ -6,3 +6,4 @@ Using Machine Learning Methods to Create a Movie Recommendation System
 <br> - how it works: using unique language in a given film's description we match it with other films with a similar description
 <br> - data source: not sure, TMBD? scrape IMDB?
 <br> - site allows user to query or click on a title and see related movies
+<br> - https://docs.streamlit.io/library/api-reference/session-state
